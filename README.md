@@ -1,1 +1,1 @@
-# a_simple_calculator
+Мой первый калькулятор
